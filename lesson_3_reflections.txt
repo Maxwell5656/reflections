@@ -18,3 +18,6 @@ It allows you to compare the last known state of the remote to your master branc
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would probably send the files to other people through something like email. It would probably be harder to keep track of everyone's code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If multiple changes are being developed at the same time, it is much easier to develop them in separate branches rather than in the master branch. 
